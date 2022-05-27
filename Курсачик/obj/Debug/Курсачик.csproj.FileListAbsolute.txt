@@ -1,0 +1,12 @@
+E:\4 семак\КУРСАЧ\Курсачик\bin\Debug\Курсачик.exe.config
+E:\4 семак\КУРСАЧ\Курсачик\bin\Debug\Курсачик.exe
+E:\4 семак\КУРСАЧ\Курсачик\bin\Debug\Курсачик.pdb
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.csprojAssemblyReference.cache
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.Form1.resources
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.Form2.resources
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.Form3.resources
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.Properties.Resources.resources
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.csproj.GenerateResource.cache
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.csproj.CoreCompileInputs.cache
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.exe
+E:\4 семак\КУРСАЧ\Курсачик\obj\Debug\Курсачик.pdb
